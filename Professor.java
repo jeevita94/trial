@@ -15,6 +15,9 @@ public class Professor extends University {
 	public staticvoid dhhg() {
 		System.out.println("ghugjtydfys");
 	}
+	public void gghji() {
+		System.out.println();
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
